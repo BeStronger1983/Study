@@ -87,11 +87,27 @@
 1. 要做大事，需要團隊。
 2. 建立一個有天賦的人的人際網路，有時候密切合作，有時候鬆散的合作，是一個偉大職涯的必要成條件。
 3. 建立人脈的有效方法是盡可能幫助別人。
-4. One of the best ways to build a network is to develop a reputation for really taking care of the people who work with you.
-5. Also, learn how to evaluate what people are great at, and put them in those roles.
-6. You want to have a reputation for pushing people hard enough that they accomplish more than they thought they could, but not so hard they burn out.
-7. The best way to make up for your weaknesses is to hire complementary team members instead of just hiring people who are good at the same things you are.
-8. A particularly valuable part of building a network is to get good at discovering undiscovered talent.
-9. A special case of developing a network is finding someone eminent to take a bet on you, ideally early in your career.
-10. Remember to spend your time with positive people who support your ambitions.
+4. 建立人脈其中一個最好的方法是，建立一個「會好好照顧跟你工作的人」的名聲。
+5. 學著當別人的伯樂，把他們放在適合的角色。
+6. 你會想要一個這樣的名聲：你會努力的推動別人，讓他們達到比他們自己以為還多的成就，但又不會讓他們崩潰。
+7. 補強自己弱點最好的方法是雇用互補的團隊成員，而不是雇用那些跟你擅長領域相同的人。
+8. 建立人脈一個特別有價值的點是變成一個好伯樂。
+9. 建立人脈有一個特別的方法，就是找到一個已經成名的強者，說服他賭你一把，這招在職涯早期特別有效。
+10. 記得把時間花在那些願意支持你的野心、樂觀的人身上。
 
+# 12. You get rich by owning things.
+透過擁有什麼來變得富有。
+
+1. 要變得真的很富有，你必須擁有一些可以快速成長的資產。
+2. 可能是一門生意、不動產、自然資源、智慧財產權，或者其他類似的東西。
+3. 你需要擁有一些資產，別只是賣你的時間，賣時間是線性的。
+4. 建立快速成長的資產，最好的方法是做那些人們想要的，而且可以快速成長的東西。
+
+# 13. Be internally driven.
+要內在驅動。
+
+1. 大多數人都是外在驅動的。他們做事情是為了讓別人欽佩。
+2. 首先，你會依照社會共識工作，然後走在社會共識的職涯上。如果別人覺得你做對的事，你會在乎很多事情，比你自己以為的還要的多。這可能會阻止你做你真正有興趣的事，但即使如此，這些事還是會有其他人做。
+3. 再來，你通常會算錯風險。你會專注在追上其他人，在競爭時不要落後，即使是很短期的時間。
+4. 我認識的最成功的人基本上都是內在驅動的。他們做了那些欽佩的事，是因為他們覺得自己必須去改變世界。
+5. 如果你不是對什麼東西著迷，那也很難有巨大的成功。
