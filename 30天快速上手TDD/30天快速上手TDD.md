@@ -4,8 +4,23 @@
 # [Day 1 TDD guidance](https://ithelp.ithome.com.tw/articles/10101867)
 
 # [Day 2 Unit Testing 簡介](https://ithelp.ithome.com.tw/articles/10102264)
+本章針對Unit Test進行簡介，主要內容包含了Why、What、Where、Who、When。
 
 ## Why
+
+### 開發常見的問題
+1. 怎麼讓各模組平行開發？
+2. 要到真實環境才能測試程式無誤？
+3. 發生錯誤，到底是誰錯了？
+4. 交付的程式，到底測過哪些東西了？
+5. 我改了這支程式，會不會害別的程式掛掉？
+
+### 以上問題，有哪些可以用Unit Test相關的方法解決？
+1. Unit Test使用mock object，達到關注點分離。
+2. Unit Test使用mock object，來模擬外部回傳的資料。
+3. 把input值當做test case，跑一次Unit Test。
+4. 交付的程式，包括Unit Test程式碼。
+5. 改完程式，就跑一次Unit Test吧。
 
 ## What
 
