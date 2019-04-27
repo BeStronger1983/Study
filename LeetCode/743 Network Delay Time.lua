@@ -14,3 +14,53 @@
 -- K will be in the range [1, N].
 -- The length of times will be in the range [1, 6000].
 -- All edges times[i] = (u, v, w) will have 1 <= u, v <= N and 0 <= w <= 100.
+
+local times = {}
+
+times[1] = {}
+times[1][2] = 10
+
+times[2] = {}
+times[2][3] = 20
+
+times[3] = {}
+times[3][1] = 40
+
+local N = 3
+local K = 1
+
+local nodesTag = {}
+
+for i = 1, N do
+    nodesTag[i] = false
+end
+
+local function checkAllNodes()
+    for i = 1, N do
+        if nodesTag[i] == false then
+            return false
+        end
+    end
+
+    return true
+end
+
+local function start(sourceNode)
+    local totalTime = -1
+
+    if times[sourceNode] == nil then
+        return -1
+    end
+
+    nodesTag[sourceNode] = true
+
+    for targetNode, travelTime in pairs(times[sourceNode]) do
+        if nodesTag[targetNode] == false then
+            
+        end
+    end
+
+    return totalTime
+end
+
+print(start(K))
